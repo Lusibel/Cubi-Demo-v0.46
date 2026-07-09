@@ -10,18 +10,18 @@ const consejos = {
             {
                 titulo: "ENTRASTE A LA SALA DEL JEFE",
                 imagen: "img/puertas.png",
-                texto: "Las puertas sean bloqueado derrota al jefe para poder salir."
+                texto: "Las puertas se han bloqueado, derrota al jefe para poder salir."
             },
             {
                 titulo: "COMBATE",
                 imagen: "img/combate.png",
-                texto: "El jefe no te atacara hasta que tu lo golpes con tu arma recoje la espada del suelo y usa el botón rojo para atacarlo acercate a el y esquiva sus ataques."
+                texto: "El jefe no te atacara hasta que tu lo golpees primero con tu arma recoje la espada del suelo y usa el botón rojo para atacarlo, acercate a el y esquiva sus ataques."
             },
 
             {
                 titulo: "MUERTE",
                 imagen: "img/muerte.png",
-                texto: "Tienes 3 puntos de vida son los puntos rojos de la parte superior izquierda si los pierdes regresaras al último punto de control."
+                texto: "Tienes 3 puntos de vida, son los puntos rojos de la parte superior izquierda si los pierdes regresaras al último punto de control."
             },
             {
                 titulo: "DERROTA AL JEFE",
