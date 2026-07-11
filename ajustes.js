@@ -28,11 +28,11 @@ if (ajustes.vision > 0.2) {
 
 const ajustes = {
 
-    vision: 1,
-    dialogScale: 1,
+    vision: 1.8,
+    dialogScale: 0.5,
     joystickScale: 1,
-    joystickOpacity: 1,
-    hiuScale: 1,
+    joystickOpacity: 0.9,
+    hiuScale: 0.5,
     musicVolume: 0.5,
     sfxVolume: 1,
 
